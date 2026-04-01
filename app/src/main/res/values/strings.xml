@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Travel Companion App</string>
+    <string name="app_title">Travel Companion App</string>
+    <string name="app_subtitle">Convert currency, fuel, liquid volume, distance and temperature easily</string>
+    <string name="select_category">Select Category</string>
+    <string name="from_label">From</string>
+    <string name="to_label">To</string>
+    <string name="enter_value_label">Enter Value</string>
+    <string name="enter_value">Enter value</string>
+    <string name="convert">Convert</string>
+    <string name="result_placeholder">Converted value will appear here</string>
+</resources>
